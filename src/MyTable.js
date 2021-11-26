@@ -7,7 +7,7 @@ import TableHead from '@mui/material/TableHead';
 import TableRow from '@mui/material/TableRow';
 import Paper from '@mui/material/Paper';
 import * as d3 from 'd3';
-import * as myData from '/Users/jonahmiller/Documents/ncaa-viz/src/old_picks copy.csv';
+import * as myData from '/Users/jonahmiller/Documents/ncaa-viz/src/current data.csv';
 
 
 function createData(date, favteam, undteam, favspread, predoutcome, confidence, vig, bet_to_take, half_kelly, quarter_kelly, finalscore, cover) {

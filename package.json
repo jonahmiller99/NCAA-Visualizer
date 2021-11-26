@@ -2,7 +2,7 @@
   "name": "ncaa-viz",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://jonahmiller99.github.io/NCAA-visualizer/",
+  "homepage": "https://jonahmiller99.github.io/NCAA-Visualizer/",
   "dependencies": {
     "@emotion/react": "^11.6.0",
     "@emotion/styled": "^11.6.0",
