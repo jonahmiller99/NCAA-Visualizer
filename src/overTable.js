@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { DataGrid } from '@mui/x-data-grid';
 import * as d3 from 'd3';
-import * as myData from '/Users/jonahmiller/Documents/ncaa-viz/src/old_picks copy 2.csv';
+import * as myData from '/Users/jonahmiller/Documents/ncaa-viz/src/current data.csv';
 import { makeStyles } from "@material-ui/core";
 
 
