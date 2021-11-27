@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/NCAA-Visualizer/precache-manifest.b991addc3f9386f7af448a66b8a9b291.js"
+  "/NCAA-Visualizer/precache-manifest.644747af87124c7423f07cfdcd9b3bd4.js"
 );
 
 self.addEventListener('message', (event) => {
