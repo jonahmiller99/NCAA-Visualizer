@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { DataGrid } from '@mui/x-data-grid';
 import * as d3 from 'd3';
-import * as myData from '/Users/jonahmiller/Documents/ncaa-viz/src/old_picks copy 2.csv';
+import * as myData from '/Users/jonahmiller/Documents/ncaa-viz/src/current data.csv';
 import { makeStyles } from "@material-ui/core";
 
 
@@ -17,8 +17,8 @@ const columns = [
   // {style: { 'whiteSpace': 'unset' }},
   { field: 'id', headerName: 'ID', flex:1 , hide:true},
   { field: 'date', headerName: 'Date', flex:1},
-  { field: 'favteam', headerName: 'Favored Team',  flex:1, headerClassName: "wrapHeader" },
-  { field: 'undteam', headerName: 'Underdog Team',  flex:1, headerClassName: "wrapHeader" },
+  { field: 'favteam', headerName: 'Favored Team',  width:100, headerClassName: "wrapHeader" },
+  { field: 'undteam', headerName: 'Underdog Team',  width:100, headerClassName: "wrapHeader" },
   { field: 'favspread', headerName: 'Favored Spread',  flex:1,headerClassName: "wrapHeader"  },
   { field: 'predoutcome', headerName: 'Predicted Outcome', width: 250 },
   { field: 'confidence', headerName: 'Spread Confidence', flex:1,width: 100 },

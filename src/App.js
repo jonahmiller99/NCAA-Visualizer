@@ -1,5 +1,4 @@
 import './App.css';
-import MyTable from "./MyTable.js"
 import TestTable from "./testTable.js"
 import OverTable from "./overTable.js"
 import React, { Component } from "react";
@@ -50,21 +49,21 @@ function App() {
         <h1>
         <span>
           <Typography variant="h3" gutterBottom component="div" align="center">
-          Spread Model
+          Over Under Model
           </Typography>
         </span>
         </h1>
-        <TestTable title="Spread Model" />
+        <OverTable/>
       </div>
       <h1>
         <span>
           <Typography variant="h3" gutterBottom component="div" align="center">
-          Over Under Model
+          Spread Model
           </Typography>
         </span>
       </h1>
       <div>
-      <OverTable/>
+      <TestTable/>
       </div>
   </div>
     
