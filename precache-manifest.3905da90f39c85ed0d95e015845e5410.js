@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "973a90cbeda53cc5c60500ecf7a2c2ae",
+    "revision": "e0c98c63d07aed25c9f783884013e13a",
     "url": "/NCAA-Visualizer/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/NCAA-Visualizer/static/css/2.c0193eb9.chunk.css"
   },
   {
-    "revision": "9f78fbe5835e45e0cb30",
+    "revision": "5f9c3a8d9d9626e359c0",
     "url": "/NCAA-Visualizer/static/css/main.2b0dd170.chunk.css"
   },
   {
@@ -24,16 +24,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/NCAA-Visualizer/static/js/3.9bd445b7.chunk.js"
   },
   {
-    "revision": "9f78fbe5835e45e0cb30",
-    "url": "/NCAA-Visualizer/static/js/main.81974d29.chunk.js"
+    "revision": "5f9c3a8d9d9626e359c0",
+    "url": "/NCAA-Visualizer/static/js/main.5854f6b6.chunk.js"
   },
   {
     "revision": "d9fdce65b84ae3009a46",
     "url": "/NCAA-Visualizer/static/js/runtime-main.d0316aa1.js"
   },
   {
-    "revision": "29fdd8f50a44d4d33ed65f5ebb33c997",
-    "url": "/NCAA-Visualizer/static/media/current data.29fdd8f5.csv"
+    "revision": "895607b75625af07bd637c356dd26008",
+    "url": "/NCAA-Visualizer/static/media/current data.895607b7.csv"
   },
   {
     "revision": "71c301d7d26bf9f0d8aa2511ff56dddc",
