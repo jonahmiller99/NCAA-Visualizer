@@ -32,8 +32,18 @@ h1 {
   padding:5px;font-size:20px;background-color:#6593F5;color:#ffffff;  
 }
 
+table {
+  border: 1px solid grey;
+  width: 100%;
+}
+
 .App-link {
   color: #61dafb;
+}
+
+span {display: block;}
+.summaryTitle {
+  background-color:#FCC981;
 }
 
 @keyframes App-logo-spin {
