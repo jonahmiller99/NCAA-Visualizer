@@ -34,19 +34,6 @@ function App() {
 
     <div>
       
-      {/* <div className="Summary" >
-        <Grid container spacing={1} alignItems = "center" >
-          <Grid item xs={12}  md={4} style={{ flexGrow: "1" }}>
-            <Paper>Record</Paper>
-            </Grid>  
-          <Grid item xs={12}  md={4} style={{ flexGrow: "1" }}>
-            <Paper>Record</Paper>  
-            </Grid>       
-          <Grid item xs={12}  md={4} style={{ flexGrow: "1" }}>
-            <Paper>Record</Paper>  
-            </Grid>                             
-          </Grid>      
-      </div> */}
       
       <style>{'body { background-color: aliceblue; }'}</style>
       <div>
@@ -55,6 +42,9 @@ function App() {
             <Typography variant="h3" gutterBottom component="div" align="center">
             Performance Summary
             </Typography>
+            <Typography variant="h3" gutterBottom component="div" align="center">
+            Performance Summary
+            </Typography>            
           </span>
         </h1>
         <table>
