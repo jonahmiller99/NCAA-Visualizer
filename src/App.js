@@ -31,20 +31,14 @@ const Item = styled(Paper)(({ theme }) => ({
 
 function App() {
   return (
-
     <div>
-      
-      
       <style>{'body { background-color: aliceblue; }'}</style>
       <div>
         <h1>
           <span className="performanceTitle">
             <Typography variant="h3" gutterBottom component="div" align="center">
             Performance Summary
-            </Typography>
-            <Typography variant="h3" gutterBottom component="div" align="center">
-            Performance Summary
-            </Typography>            
+            </Typography>     
           </span>
         </h1>
         <table>
